@@ -1,38 +1,64 @@
-~ Bug Reports
-# Bug 1: Login button not working
+# E-commerce Application – Bug Reports
 
-Severity: High
+## BUG_01: Login button not responding
 
-Steps:
+- **Module:** Login  
+- **Severity:** High  
+- **Priority:** High  
+- **Environment:** Chrome, Windows  
 
-Enter valid credentials
+### Steps to Reproduce:
+1. Navigate to login page  
+2. Enter valid credentials  
+3. Click Login button  
 
-Click login
+### Expected Result:
+User should login successfully  
 
-Expected: User logs in
+### Actual Result:
+No response on clicking login button  
 
-Actual: Nothing happens
+### Status:
+Open  
 
-# Bug 2: Cart not updating
+---
 
-Severity: Medium
+## BUG_02: Cart not updating after adding product
 
-Steps:
+- **Module:** Cart  
+- **Severity:** Medium  
+- **Priority:** Medium  
 
-Add product to cart
+###  Steps to Reproduce:
+1. Select a product  
+2. Click Add to Cart  
 
-Expected: Cart count increases
+### Expected Result:
+Cart count should increase  
 
-Actual: Cart count remains same
+### Actual Result:
+Cart count remains unchanged  
 
-# Bug 3: Error message missing
+###  Status:
+Open  
 
-Severity: Low
+---
 
-Steps:
+## BUG_03: Validation message missing
 
-Submit empty login form
+- **Module:** Login  
+- **Severity:** Low  
+- **Priority:** Low  
 
-Expected: Validation message
+### Steps to Reproduce:
+1. Click Login without entering data  
 
-Actual: No message shown
+### Expected Result:
+Validation message should appear  
+
+### Actual Result:
+No validation message displayed  
+
+### Status:
+Open  
+
