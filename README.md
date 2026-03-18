@@ -28,7 +28,9 @@ This repository showcases my practical QA experience for enterprise applications
 - Logged and tracked bugs and test reports in Neome.
 
 ## New / Learning Skills
-- Generative AI in Testing (using AI tools for test case generation and test data preparation)  
+- Generative AI in Testing (using AI tools for test case generation and test data preparation)
+
+## Tested workflows in multiple modules, including Employee Management, Vehicle Inward/Outward Management, Order Management.
 
 ## How to Use This Portfolio
 - `Test-Cases/` folder: Contains detailed test cases with steps, expected results, priority, and status.  
