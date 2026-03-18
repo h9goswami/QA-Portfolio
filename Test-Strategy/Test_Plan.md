@@ -1,23 +1,33 @@
-## Test Plan: E-commerce Application
+# Test Plan – E-commerce Application
 
-### Objective:
-To validate core functionalities like login and cart operations.
+## Objective
+To validate core functionalities such as login and cart operations to ensure application stability and usability.
 
-### Scope:
-- Login module
-- Cart module
+## Scope
+- Login Module
+- Cart Module
 
-### Testing Types:
+## Testing Types
 - Functional Testing
 - UI Testing
+- Basic Workflow Validation
 
-### Tools:
+## Test Approach
+Manual testing will be performed by executing predefined test cases and logging defects.
+
+## Tools Used
 - Manual Testing
-- (Optional: Postman if added later)
+- GitHub (for documentation)
 
-### Entry Criteria:
-- Application is deployed
-- Requirements are available
+## Entry Criteria
+- Application is accessible
+- Test data is available
 
-### Exit Criteria:
-- All critical defects resolved
+## Exit Criteria
+- All critical defects are resolved
+- Test cases are executed
+
+## Deliverables
+- Test Cases
+- Bug Reports
+- Test Plan Document
