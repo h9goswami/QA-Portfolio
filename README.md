@@ -1,27 +1,36 @@
-# QA-Portfolio
-QA-Portfolio
+# QA Portfolio
 
+This repository showcases my practical QA experience for enterprise applications, including test cases, bug reports, and test planning documentation.
 
-This repository demonstrates my hands-on experience in manual testing and quality assurance practices.
+## Skills Demonstrated
+- Functional Testing across multiple enterprise modules/workflows
+- UI Testing for mobile and web platforms
+- Responsive design testing (mobile, tablet, desktop)
+- Push Notifications & Deep Link testing
+- Chat functionality testing (real-time messaging)
+- Admin Panel testing and configuration validation
+- Reminder and date logic testing (timezone conversions)
+- Basic Payment testing (Razorpay, redirect & calculation)
+- Dark / Light mode testing (using device settings)
+- Bug reporting and documentation
 
-## Project: E-commerce Application Testing
+## Tools Used
+- Neome (for test case management, bug tracking, and workflow monitoring)
+- Google Chrome DevTools (for responsive testing)
+- Android/iOS devices (for mobile testing)
 
-###  Scope:
-- Login functionality
-- Cart operations
+## Project Overview
+- Created and tested multiple enterprise modules using Neome.  
+- Validated functional workflows, form submissions, approvals, and role-based access control.  
+- Tested mobile app behavior including push notifications, deep links, and in-app messaging.  
+- Verified UI consistency, responsive layouts, and dark/light mode behavior. 
+- Admin panel testing: creation, updates, deletion, and reflection on user side.  
+- Logged and tracked bugs and test reports in Neome.
 
-## Key Contributions:
-- Designed and executed test cases
-- Identified and reported defects
-- Validated business workflows
+## New / Learning Skills
+- Generative AI in Testing (using AI tools for test case generation and test data preparation)  
 
-## Skills Demonstrated:
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Requirement Analysis
-
-## 🔗 Repository Structure:
-- Test-Cases/
-- Bug-Reports/
-- Test-Strategy/
+## How to Use This Portfolio
+- `Test-Cases/` folder: Contains detailed test cases with steps, expected results, priority, and status.  
+- `Bug-Reports/` folder: Contains structured bug reports including severity, priority, steps, and actual vs expected results.  
+- `Test-Plan/` folder: Contains project-level test plan, scope, objectives, tools, and approach.  
