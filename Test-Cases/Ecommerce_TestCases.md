@@ -119,16 +119,18 @@ This file contains detailed test cases for multiple enterprise modules and workf
 
 ---
 
-### Test Case: Order Work Flow
+### Test Case: Order Items Functionality
 **ID:** TC_009  
 **Module:** Order  
-**Precondition:** Items are available for ordering.
+**Precondition:** User logged in, product are available for ordering and added to cart Items.
 **Steps:**
-1. Select the desired items.  
-2. Add basic details(Name, Number, Address). 
-3. Click on send
-4. Verify that the Order is created.
-**Expected Result:** The user should be able to place an order successfully, and the order should be associated with that user.
+1. Navigate to Order Items section.
+2. Add, update, and remove items from the order.
+3. Add basic details(Name, Contact Number, Address). 
+4. Verify quantity, pricing, and total calculations.
+5. Submit order and verify confirmation. 
+
+**Expected Result:** All order item operations work correctly; total calculation accurate.  
 **Actual Result:** The user placed the order successfully, and it was created correctly.
 **Status:** Pass  
 **Priority:** High  
