@@ -44,3 +44,11 @@ It includes detailed test cases, bug reports, and a comprehensive test plan cove
 2. Check `Bug-Reports/` to see structured reporting and traceability with test cases.  
 3. Review `Test-Plan/` to understand planning, coverage, and QA methodology.  
 4. Learn from the skills and emerging technologies section to see ongoing growth in modern QA practices.
+
+
+---
+
+## Notes
+
+- Test cases and bugs are documented realistically; even if the product is stable, reporting shows QA methodology and traceability.   
+- This portfolio demonstrates a full QA workflow: planning → execution → reporting → learning.
