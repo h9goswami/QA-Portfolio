@@ -5,7 +5,7 @@
 - Purpose: Ensure all workflows, UI, and functionality work correctly across mobile and web platforms.
 
 ## 2. Scope of Testing
-- Functional Testing: Forms, workflows, approvals, role-based access.
+- Functional Testing: Forms, Order Items, workflows, approvals, role-based access.
 - UI Testing: Responsive layouts, dark/light mode.
 - Mobile App Testing: Android & limited iOS testing, push notifications, deep links.
 - Admin Panel Testing: Create, update, delete, and validate user-side impact.
