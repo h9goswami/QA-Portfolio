@@ -11,7 +11,7 @@ It includes detailed test cases, bug reports, and a comprehensive test plan cove
 
 **Business Analysis:** Enterprise Workflow & Template Creation, Customer Requirement Analysis, Role-Based Access & Permission Validation, Business Workflow Documentation  
 
-**Tools:** Neome, Jira, Chrome DevTools, Android/iOS Devices, Excel/Sheets  
+**Tools:** Neome, Jira, Chrome DevTools, Android/iOS Devices, Excel/SpreadSheets  
 
 **Learning / Emerging Skills:** Generative AI in Testing, Automation Basics (Selenium/Playwright), Advanced Test Reporting  
 
